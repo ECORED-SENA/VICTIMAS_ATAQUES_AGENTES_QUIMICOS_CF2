@@ -1,0 +1,222 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","intro"],
+    "path": "pages/intro.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "quemaduras",
+    "title": "1. Marco conceptual quemaduras por agentes químicos",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/1-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "quemaduras",
+        "title": "1.1 Generalidades sobre los químicos utilizados en los ataques",
+        "anchor": "11"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "quemaduras",
+        "title": "1.2 Fisiopatología de las quemaduras por químicos",
+        "anchor": "12"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "auxilios",
+    "title": "2. Primeros auxilios en el lugar de la agresión (comunidad)",
+    "breadcrumb": ["Inicio","Tema 2"],
+    "path": "pages/2-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "auxilios",
+        "title": "2.1 Avise",
+        "anchor": "21"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "auxilios",
+        "title": "2.2 Proteja",
+        "anchor": "22"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "auxilios",
+        "title": "2.3 Atienda",
+        "anchor": "23"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "prehospitalaria",
+    "title": "3. Atención prehospitalaria (ambulancias – profesionales de la salud) ",
+    "breadcrumb": ["Inicio","Tema 3"],
+    "path": "pages/3-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "prehospitalaria",
+        "title": "3.1 Evaluación inicial ABCDE",
+        "anchor": "31"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "prehospitalaria",
+        "title": "3.2 Definir fuente de agua",
+        "anchor": "32"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "prehospitalaria",
+        "title": "3.3 Presentarse y tranquilizar",
+        "anchor": "33"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "prehospitalaria",
+        "title": "3.4 Protegerse",
+        "anchor": "34"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "prehospitalaria",
+        "title": "3.5 Secado",
+        "anchor": "35"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "prehospitalaria",
+        "title": "3.6 Retirar ropa",
+        "anchor": "36"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "prehospitalaria",
+        "title": "3.7 Irrigar y lavar",
+        "anchor": "37"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "prehospitalaria",
+        "title": "3.8 Lavado ocular",
+        "anchor": "38"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "prehospitalaria",
+        "title": "3.9 Cubrir",
+        "anchor": "39"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "prehospitalaria",
+        "title": "3.10 Traslado",
+        "anchor": "310"
+      }   
+     ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "urgencias",
+    "title": "4. Atención en el servicio de urgencias",
+    "breadcrumb": ["Inicio","Tema 4"],
+    "path": "pages/4-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "urgencias",
+        "title": "4.1 Triage",
+        "anchor": "41"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "urgencias",
+        "title": "4.2 Evaluación inicial ABCDE",
+        "anchor": "42"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "urgencias",
+        "title": "4.3 Irrigación - lavado - curación inicial",
+        "anchor": "43"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "urgencias",
+        "title": "4.4 Analgesia",
+        "anchor": "44"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "urgencias",
+        "title": "4.5 Manejo de quemadura en ojos",
+        "anchor": "45"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "urgencias",
+        "title": "4.6 Evaluación de las quemaduras",
+        "anchor": "46"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "urgencias",
+        "title": "4.7 Referencia unidad de quemados ",
+        "anchor": "47"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "ambulatorio",
+    "title": "5. Unidad de quemados y manejo ambulatorio",
+    "breadcrumb": ["Inicio","Tema 5"],
+    "path": "pages/5-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "ambulatorio",
+        "title": "5.1 Criterios para el manejo ambulatorio u hospitalización",
+        "anchor": "51"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "ambulatorio",
+        "title": "5.2 Manejo interdisciplinario ",
+        "anchor": "52"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "ambulatorio",
+        "title": "5.3 Rehabilitación física",
+        "anchor": "53"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "ambulatorio",
+        "title": "5.4 Control y seguimiento",
+        "anchor": "54"
+      }
+    ]
+  }
+]
